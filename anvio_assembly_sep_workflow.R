@@ -136,6 +136,9 @@ $WORKDIR/08_BINS/combined_bins.txt > $WORKDIR/08_BINS/combined_bins_table.txt
 #estimate metabolism
 sbatch -D `pwd` --export=ALL,WORKDIR=$WORKDIR --job-name "est_met_bins" $REPO_DIR/anvio_scripts/est_met.sh
 
+#run CAZy annotation
+sbatch -D `pwd` --array=0-8 --export=ALL,WORKDIR=$WORKDIR --job-name "CAZy_annotation" $REPO_DIR/scripts/run_cazy.sh
+
 ###############################################################################################
 #test Metabolic enrichment 
 ###############################################################################################
@@ -170,6 +173,27 @@ anvi-compute-metabolic-enrichment -M $WORKDIR/08_BINS/BINS_modules.txt \
 ###############################################################################################
 #test functional enrichment (COG20)
 ###############################################################################################
+#generate combined COG20 definitions table
+awk 'BEGIN{OFS="\t"; print "group","gene_callers_id","source","accession","function","e_value"}' \
+> $WORKDIR/03_CONTIGS/COG20.txt
+
+for metaG in SC SJ T3J T4J T3C T4C ML M T0;
+do
+
+anvi-export-functions -c $WORKDIR/03_CONTIGS/${metaG}-contigs.db \
+-o $WORKDIR/03_CONTIGS/${metaG}-COG20.txt \
+--annotation-sources COG20_CATEGORY,COG20_FUNCTION
+
+awk -v metaG=$metaG 'BEGIN{OFS="\t"};\
+NR>1{print metaG,$0}' $WORKDIR/03_CONTIGS/${metaG}-COG20.txt >> \
+$WORKDIR/03_CONTIGS/COG20.txt
+
+done
+
+Rscript generate_COG20_def_table.R
+
+
+
 #Jelly-Control
 #generate bins table 
 grep "T3J\\|T4J\\|T3C\\|T4C" $WORKDIR/08_BINS/combined_bins_table.txt | \
