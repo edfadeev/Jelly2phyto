@@ -1,0 +1,290 @@
+group	db_name	bins	total_length	num_contigs	N50	GC_content	percent_completion	percent_redundancy	t_domain	t_phylum	t_class	t_order	t_family	t_genus	t_species
+T3J	T3J_bin_10	bin_10	1587136	236	7939	53.8914539652029	50.70422535211268	5.633802816901408	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Litoricolaceae	Litoricola	Litoricola sp012269655
+T3J	T3J_bin_11	bin_11	1210943	269	4584	53.316643424854796	74.64788732394366	1.408450704225352	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA3439	UBA3439 sp016780525
+T3J	T3J_bin_12	bin_12	1862200	384	5272	55.56500448322678	64.78873239436619	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Marivivens	
+T3J	T3J_bin_13	bin_13	3941740	635	6748	55.891829487053954	43.66197183098591	5.633802816901408	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+T3J	T3J_bin_14	bin_14	2545397	433	6448	57.485273951623675	56.33802816901409	14.084507042253522	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Thalassobacter	Thalassobacter stenotrophicus
+T3J	T3J_bin_15	bin_15	2066006	189	14820	32.046951050683475	90.14084507042253	2.816901408450704	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Polaribacter	
+T3J	T3J_bin_16	bin_16	2699456	362	9134	35.6650395073354	53.521126760563384	4.225352112676056	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Crocinitomicaceae	Lishizhenia	Lishizhenia tianjinensis
+T3J	T3J_bin_17	bin_17	2304880	331	8424	48.63022709110425	63.38028169014085	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	HIMB11	
+T3J	T3J_bin_18	bin_18	4077310	409	14002	44.443181080976856	54.929577464788736	8.450704225352112	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Vibrionaceae	Vibrio	
+T3J	T3J_bin_2	bin_2	1810208	386	4866	54.01134806611165	73.2394366197183	5.633802816901408	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+T3J	T3J_bin_3	bin_3	6052243	387	20011	44.05117141742304	53.521126760563384	8.450704225352112	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Vibrionaceae	Vibrio	
+T3J	T3J_bin_4	bin_4	3392396	195	27056	44.42509154818443	74.64788732394366	4.225352112676056	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	DSM-6294	Bermanella	Bermanella sp002683575
+T3J	T3J_bin_5	bin_5	3536177	659	5840	41.19314944123851	43.66197183098591	7.042253521126761	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Alteromonadaceae	Pseudoalteromonas	
+T3J	T3J_bin_6	bin_6	3473720	355	12367	47.55369744810485	54.929577464788736	8.450704225352112	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	DSM-6294	Oleispira	
+T3J	T3J_bin_7	bin_7	2527656	274	11213	57.31916406767566	67.6056338028169	4.225352112676056	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+T3J	T3J_bin_8	bin_8	3517743	250	19923	40.156554842695726	64.78873239436619	9.859154929577464	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Alteromonadaceae	LPB0316	LPB0316 sp014898095
+T3J	T3J_bin_9	bin_9	2694425	435	7258	44.61651709553529	54.929577464788736	4.225352112676056	Bacteria						
+T4J	T4J_bin_1	bin_1	1865668	158	15623	54.05784115035311	90.14084507042253	4.225352112676056	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Litoricolaceae	Litoricola	Litoricola sp012269655
+T4J	T4J_bin_10	bin_10	3879245	340	16274	42.02075701865958	53.521126760563384	4.225352112676056	Bacteria	Pseudomonadota	Gammaproteobacteria				
+T4J	T4J_bin_11	bin_11	3158786	280	18250	34.15475936439021	92.95774647887323	0.0	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Crocinitomicaceae	Brumimicrobium	Brumimicrobium aurantiacum
+T4J	T4J_bin_12	bin_12	3246284	308	13294	44.41040237640816	69.01408450704226	1.408450704225352	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales			
+T4J	T4J_bin_13	bin_13	4315058	532	10438	56.37605312760749	66.19718309859155	15.492957746478874	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Vibrionaceae	Vibrio	
+T4J	T4J_bin_14	bin_14	2317649	127	31789	31.692563806469366	92.95774647887323	2.816901408450704	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Polaribacter	
+T4J	T4J_bin_15	bin_15	3478917	280	17667	47.703018901354255	54.929577464788736	5.633802816901408	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	DSM-6294	Oleispira	
+T4J	T4J_bin_16	bin_16	2695515	300	11344	39.01945940404147	87.32394366197182	2.816901408450704	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Salibacteraceae	CAJXZP01	CAJXZP01 sp024398135
+T4J	T4J_bin_17	bin_17	2687329	127	32969	57.78692311862823	61.971830985915496	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+T4J	T4J_bin_18	bin_18	3782203	673	6488	39.98760837064657	35.2112676056338	4.225352112676056	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Alteromonadaceae	Thalassotalea_C	Thalassotalea_C marina
+T4J	T4J_bin_19	bin_19	1785686	175	13757	50.48069362401919	69.01408450704226	2.816901408450704	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Litoricolaceae	HIMB30	HIMB30 sp002691485
+T4J	T4J_bin_2	bin_2	2525707	145	26373	46.931451075006	97.1830985915493	0.0	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Schleiferiaceae	Phaeocystidibacter	Phaeocystidibacter sp013373425
+T4J	T4J_bin_20	bin_20	3464266	624	6119	49.28892010805467	30.985915492957748	4.225352112676056	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Nitrincolaceae	JAILYN01	JAILYN01 sp019795155
+T4J	T4J_bin_21	bin_21	2605556	308	10418	56.23855924857318	80.28169014084507	5.633802816901408	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Marivivens	
+T4J	T4J_bin_22	bin_22	2255530	208	14469	48.663562153285724	39.436619718309856	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	HIMB11	
+T4J	T4J_bin_23	bin_23	1860007	330	6093	52.72293490795666	60.563380281690144	9.859154929577464	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Nitrincolaceae	Marinobacterium	Marinobacterium sp024640955
+T4J	T4J_bin_24	bin_24	3759193	141	42749	36.66598844112832	87.32394366197182	5.633802816901408	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales			
+T4J	T4J_bin_25	bin_25	2298614	455	5417	41.7639428194046	45.070422535211264	2.816901408450704	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Salibacteraceae	CAJXZP01	CAJXZP01 sp024398135
+T4J	T4J_bin_26	bin_26	2185393	262	10262	54.087718078125526	91.54929577464789	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+T4J	T4J_bin_27	bin_27	4468038	537	10372	42.26649294648438	49.29577464788732	5.633802816901408	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Alteromonadaceae	Thalassotalea	Thalassotalea sp022448425
+T4J	T4J_bin_28	bin_28	4891406	350	18488	44.19501782924894	81.69014084507042	15.492957746478874	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Vibrionaceae	Vibrio	
+T4J	T4J_bin_29	bin_29	1406148	245	6684	53.66986328859022	81.69014084507042	0.0	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA3439	UBA3439 sp016780525
+T4J	T4J_bin_3	bin_3	3095013	186	26701	36.40211207157316	40.84507042253521	0.0	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Crocinitomicaceae	Lishizhenia	Lishizhenia tianjinensis
+T4J	T4J_bin_30	bin_30	3008106	109	40660	57.889607299027155	97.1830985915493	7.042253521126761	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Thalassobacter	Thalassobacter stenotrophicus
+T4J	T4J_bin_31	bin_31	6263645	155	59147	43.97880265629655	69.01408450704226	0.0	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Vibrionaceae	Vibrio	
+T4J	T4J_bin_32	bin_32	5022660	349	18499	37.83827629489884	69.01408450704226	8.450704225352112	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Crocinitomicaceae	Crocinitomix	Crocinitomix algicola
+T4J	T4J_bin_33	bin_33	3439012	168	31231	39.942388616163505	76.05633802816901	9.859154929577464	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Alteromonadaceae	LPB0316	LPB0316 sp014898095
+T4J	T4J_bin_34	bin_34	3273459	387	10483	44.135553737819826	52.11267605633803	9.859154929577464	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Alteromonadaceae	Pseudoalteromonas	
+T4J	T4J_bin_35	bin_35	2280025	367	7055	42.89092427502348	59.15492957746479	5.633802816901408	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Alteromonadaceae	Psychrosphaera	Psychrosphaera ytuae
+T4J	T4J_bin_36	bin_36	1277989	244	5872	40.760950677101036	47.88732394366197	4.225352112676056	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	UBA3478	UBA3478 sp024638165
+T4J	T4J_bin_37	bin_37	2195379	521	4226	55.43800446593872	59.15492957746479	2.816901408450704	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Spongiibacteraceae	Spongiibacter	
+T4J	T4J_bin_38	bin_38	1106447	266	4193	30.315618774305932	33.80281690140845	0.0	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae		
+T4J	T4J_bin_39	bin_39	1212825	260	4957	39.53953305135725	45.070422535211264	0.0	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae		
+T4J	T4J_bin_4	bin_4	3116411	401	9316	40.566201548043246	47.88732394366197	0.0	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Alteromonadaceae	LPB0316	LPB0316 sp014898095
+T4J	T4J_bin_40	bin_40	1587093	357	4615	51.32551398503462	53.521126760563384	8.450704225352112	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	LGRT01	LGRT01 sp016778765
+T4J	T4J_bin_5	bin_5	2575513	365	8299	41.50537263675176	60.563380281690144	9.859154929577464	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Alteromonadaceae	Glaciecola	Glaciecola sp000155775
+T4J	T4J_bin_6	bin_6	3328655	162	28927	44.37109736401966	78.87323943661971	5.633802816901408	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	DSM-6294	Bermanella	Bermanella sp002683575
+T4J	T4J_bin_7	bin_7	2943285	218	18644	60.653374211496036	71.83098591549296	4.225352112676056	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	CAJXSO01	CAJXSO01 sp913061505
+T4J	T4J_bin_8	bin_8	5870079	316	32846	41.64232677376528	53.521126760563384	2.816901408450704	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Alteromonadaceae	Pseudoalteromonas	
+T4J	T4J_bin_9	bin_9	3094487	275	15490	35.47845258073545	73.2394366197183	0.0	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Crocinitomicaceae	Lishizhenia	Lishizhenia tianjinensis
+T3C	T3C_bin_1	bin_1	3164458	404	9385	44.78044594525534	91.54929577464789	0.0	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	DSM-21967	Dasania	Dasania sp024734385
+T3C	T3C_bin_10	bin_10	2751397	318	11480	65.44910589435055	85.91549295774648	4.225352112676056	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	HTCC2089	RGAU01	RGAU01 sp009919975
+T3C	T3C_bin_11	bin_11	2573250	114	45367	56.64547524685022	100.0	0.0	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA8309	UBA8309 sp016780765
+T3C	T3C_bin_12	bin_12	1611036	72	40184	40.68014955729187	97.1830985915493	2.816901408450704	Bacteria	Bacteroidota					
+T3C	T3C_bin_13	bin_13	1232197	78	32944	60.10269820381197	98.59154929577464	0.0	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Pontimonas	Pontimonas sp002172585
+T3C	T3C_bin_14	bin_14	1996065	90	32743	56.84764272642706	100.0	0.0	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	UBA1172	UBA1172	UBA1172 sp002457135
+T3C	T3C_bin_15	bin_15	1653010	193	10512	52.76466713723943	88.73239436619718	2.816901408450704	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Halieaceae	Luminiphilus	Luminiphilus sp003331335
+T3C	T3C_bin_16	bin_16	3371639	250	20845	47.6231958011353	64.78873239436619	1.408450704225352	Bacteria						
+T3C	T3C_bin_17	bin_17	1752638	66	40738	40.42714237074782	84.50704225352112	1.408450704225352	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	UBA8316	UBA8316 sp002364535
+T3C	T3C_bin_18	bin_18	1915987	153	18273	54.87449047171179	66.19718309859155	0.0	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	HIMB100	HIMB100 sp000238815
+T3C	T3C_bin_19	bin_19	1885022	61	58290	51.1136816476346	98.59154929577464	0.0	Bacteria	Pseudomonadota	Alphaproteobacteria	UBA8317	UBA8317	UBA8317	UBA8317 sp002469865
+T3C	T3C_bin_2	bin_2	3108864	155	35144	44.611115761517944	64.78873239436619	0.0	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	DSM-6294	Bermanella	Bermanella sp002683575
+T3C	T3C_bin_20	bin_20	2827460	132	37537	57.570023894950914	69.01408450704226	5.633802816901408	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+T3C	T3C_bin_21	bin_21	3154096	352	11328	65.74381002821714	91.54929577464789	1.408450704225352	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Alcanivoracaceae	Alcanivorax	
+T3C	T3C_bin_22	bin_22	2365588	165	20862	48.54658950039354	69.01408450704226	4.225352112676056	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	HIMB11	
+T3C	T3C_bin_23	bin_23	2995099	623	5052	44.78897418831568	67.6056338028169	5.633802816901408	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Vibrionaceae	Vibrio	
+T3C	T3C_bin_24	bin_24	1645903	183	11644	47.62124685206896	59.15492957746479	5.633802816901408	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	JADHLI01	JADHLI01 sp016780775
+T3C	T3C_bin_25	bin_25	1835826	492	3714	59.6710623248408	46.478873239436616	1.408450704225352							
+T3C	T3C_bin_26	bin_26	1329054	35	63019	39.51045577288653	94.36619718309859	2.816901408450704	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	UBA7446	UBA7446 sp017856205
+T3C	T3C_bin_27	bin_27	1981273	135	21821	48.19447864956804	61.971830985915496	1.408450704225352	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	JADHLI01	JADHLI01 sp022425485
+T3C	T3C_bin_28	bin_28	2524440	226	18576	53.195890105514685	54.929577464788736	2.816901408450704	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Halieaceae	Luminiphilus	
+T3C	T3C_bin_29	bin_29	2145435	80	36209	47.06791085627952	100.0	1.408450704225352	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	UBA1172	UBA12202	UBA12202 sp016778985
+T3C	T3C_bin_3	bin_3	2454344	124	30101	64.33795643946661	53.521126760563384	1.408450704225352	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	HTCC2089	RGAU01	
+T3C	T3C_bin_30	bin_30	1478887	191	9237	45.75829668389829	84.50704225352112	2.816901408450704	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales			
+T3C	T3C_bin_31	bin_31	1726711	89	28689	40.74515954714438	94.36619718309859	7.042253521126761	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	UBA8316	UBA8316 sp003538555
+T3C	T3C_bin_32	bin_32	2521476	198	16996	55.134224365892074	78.87323943661971	4.225352112676056	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	MED-G116	MED-G116 sp004212735
+T3C	T3C_bin_33	bin_33	2267549	189	20100	40.45917775293331	43.66197183098591	0.0	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Alteromonadaceae	Glaciecola	Glaciecola sp000155775
+T3C	T3C_bin_34	bin_34	2704580	151	24194	56.51864682815927	92.95774647887323	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Marivivens	
+T3C	T3C_bin_35	bin_35	3561337	72	73556	57.86298947653348	95.77464788732394	0.0	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Thalassococcus	Thalassococcus halodurans
+T3C	T3C_bin_36	bin_36	1923263	31	77946	54.087496623234564	98.59154929577464	0.0	Bacteria	Pseudomonadota	Alphaproteobacteria	Parvibaculales	RS24	UBA7378	UBA7378 sp002469805
+T3C	T3C_bin_37	bin_37	1871245	182	12952	41.926496614555234	80.28169014084507	1.408450704225352	Bacteria	Bacteroidota	Rhodothermia	Balneolales	Balneolaceae	UBA1275	UBA1275 sp002457365
+T3C	T3C_bin_38	bin_38	2477504	224	14660	60.656067822451696	85.91549295774648	1.408450704225352	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA8309	UBA8309 sp004213025
+T3C	T3C_bin_39	bin_39	1317347	132	12242	51.05654432876029	90.14084507042253	2.816901408450704	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Litoricolaceae	HIMB30	
+T3C	T3C_bin_4	bin_4	1338888	122	15148	41.14922786678585	92.95774647887323	1.408450704225352	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	MS024-2A	MS024-2A sp002292265
+T3C	T3C_bin_40	bin_40	2465020	166	20925	60.59048468727097	91.54929577464789	1.408450704225352	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA8309	UBA8309 sp002457745
+T3C	T3C_bin_41	bin_41	3345302	116	46582	44.36975762682223	91.54929577464789	1.408450704225352	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Oleiphilaceae	PZPK01	PZPK01 sp022447365
+T3C	T3C_bin_42	bin_42	2023899	288	8071	51.71794267272788	50.70422535211268	5.633802816901408	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	LGRT01	LGRT01 sp016778765
+T3C	T3C_bin_43	bin_43	1904903	260	9260	57.46196897752937	59.15492957746479	1.408450704225352	Bacteria	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Erythrobacter	Erythrobacter sp003149575
+T3C	T3C_bin_44	bin_44	1671961	99	28357	41.49633012776096	95.77464788732394	0.0	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA5951	UBA5951 sp016779005
+T3C	T3C_bin_45	bin_45	1600603	273	6446	56.35872492901868	60.563380281690144	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	M30B80	M30B80 sp015693905
+T3C	T3C_bin_46	bin_46	1969571	343	6264	56.034077617188295	57.74647887323944	5.633802816901408	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudohongiellaceae	UBA9145	
+T3C	T3C_bin_47	bin_47	1267131	178	8970	46.45855259592507	52.11267605633803	0.0	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	UBA3478	UBA3478 sp016780435
+T3C	T3C_bin_48	bin_48	1130988	65	32664	29.484872534874846	78.87323943661971	5.633802816901408	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	MED-G14	MED-G14 sp004321735
+T3C	T3C_bin_5	bin_5	1707815	39	69160	40.777169184697776	94.36619718309859	2.816901408450704	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	UBA11891	UBA11891 sp009886755
+T3C	T3C_bin_6	bin_6	2916892	444	7597	44.57938993223569	50.70422535211268	1.408450704225352	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	DSM-6294	Bermanella	Bermanella marisrubri
+T3C	T3C_bin_7	bin_7	3602877	173	34674	42.314024476774485	92.95774647887323	4.225352112676056	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	DSM-6294	Bermanella	Bermanella sp913054055
+T3C	T3C_bin_8	bin_8	1837436	80	33018	39.67061911629431	92.95774647887323	0.0	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Arcticimaribacter	Arcticimaribacter sp022424955
+T3C	T3C_bin_9	bin_9	1697557	112	21228	53.47726395342748	98.59154929577464	5.633802816901408	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA3439	UBA3439 sp016780525
+T4C	T4C_bin_1	bin_1	2241559	389	6301	55.79894827002722	71.83098591549296	11.267605633802816	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Marivivens	
+T4C	T4C_bin_10	bin_10	2067752	179	15685	46.99883116533473	97.1830985915493	4.225352112676056	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	UBA1172	UBA12202	UBA12202 sp016778985
+T4C	T4C_bin_11	bin_11	1570822	207	9352	41.969156347836694	60.563380281690144	4.225352112676056	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA5951	UBA5951 sp016779005
+T4C	T4C_bin_12	bin_12	1535270	157	11246	39.6991723717869	70.4225352112676	1.408450704225352	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Arcticimaribacter	Arcticimaribacter sp022424955
+T4C	T4C_bin_13	bin_13	2176864	321	7978	48.43301071205312	53.521126760563384	5.633802816901408	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	HIMB11	
+T4C	T4C_bin_14	bin_14	2673484	253	14138	64.1387585040965	69.01408450704226	4.225352112676056	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	HTCC2089	RGAU01	RGAU01 sp016779385
+T4C	T4C_bin_15	bin_15	1087657	114	11348	39.880637650171046	76.05633802816901	2.816901408450704	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	UBA7446	
+T4C	T4C_bin_16	bin_16	1335017	292	4735	55.71251565900065	59.15492957746479	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+T4C	T4C_bin_17	bin_17	1902781	317	6484	51.630580145668695	73.2394366197183	1.408450704225352	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	LGRT01	LGRT01 sp016778765
+T4C	T4C_bin_18	bin_18	1507277	113	19356	40.90620678631278	90.14084507042253	4.225352112676056	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae		
+T4C	T4C_bin_19	bin_19	1819810	93	26112	53.804947621153445	94.36619718309859	1.408450704225352	Bacteria	Pseudomonadota	Alphaproteobacteria	Parvibaculales	RS24	UBA7378	UBA7378 sp002469805
+T4C	T4C_bin_2	bin_2	2083367	347	6745	55.76055184790087	67.6056338028169	2.816901408450704	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	HTCC2089	UBA4421	UBA4421 sp004213835
+T4C	T4C_bin_20	bin_20	1471565	198	8956	41.64600437950133	77.46478873239437	1.408450704225352	Bacteria	Bacteroidota	Rhodothermia	Balneolales	Balneolaceae	UBA1275	UBA1275 sp002457365
+T4C	T4C_bin_21	bin_21	2178424	316	8169	60.67126261448893	85.91549295774648	1.408450704225352	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA8309	UBA8309 sp004213025
+T4C	T4C_bin_22	bin_22	2299762	273	10867	52.728493669466594	69.01408450704226	5.633802816901408	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Halieaceae	Luminiphilus	
+T4C	T4C_bin_23	bin_23	2582929	377	8485	40.20245920325786	38.028169014084504	5.633802816901408	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Alteromonadaceae	Glaciecola	Glaciecola sp000155775
+T4C	T4C_bin_24	bin_24	3250095	397	10628	47.61585368502429	52.11267605633803	7.042253521126761	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	DSM-6294	Oleispira	
+T4C	T4C_bin_25	bin_25	2615659	426	6865	65.16504963601254	76.05633802816901	1.408450704225352	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Alcanivoracaceae	Alcanivorax	
+T4C	T4C_bin_26	bin_26	2292303	244	11215	54.64852765292557	81.69014084507042	4.225352112676056	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	MED-G116	MED-G116 sp004212735
+T4C	T4C_bin_27	bin_27	1611593	228	9134	40.72311231418716	59.15492957746479	2.816901408450704	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	UBA8316	UBA8316 sp009936675
+T4C	T4C_bin_28	bin_28	3505411	161	34160	57.68062948017003	91.54929577464789	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Thalassococcus	Thalassococcus halodurans
+T4C	T4C_bin_29	bin_29	2234089	212	15236	60.65049792039671	60.563380281690144	5.633802816901408	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA8309	UBA8309 sp002457745
+T4C	T4C_bin_3	bin_3	2681178	220	18070	57.26017186069663	64.78873239436619	4.225352112676056	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+T4C	T4C_bin_30	bin_30	1435115	222	7348	40.91180154696948	67.6056338028169	7.042253521126761	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	MS024-2A	MS024-2A sp002292265
+T4C	T4C_bin_31	bin_31	1725396	180	13437	51.15817796636313	90.14084507042253	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	UBA8317	UBA8317	UBA8317	UBA8317 sp002469865
+T4C	T4C_bin_32	bin_32	2430206	180	17934	56.99334615358379	59.15492957746479	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA8309	UBA8309 sp016780765
+T4C	T4C_bin_33	bin_33	4146707	665	6816	44.33658799523167	83.09859154929578	12.67605633802817	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Vibrionaceae	Vibrio	
+T4C	T4C_bin_34	bin_34	1823685	271	7644	54.59826099825764	77.46478873239437	1.408450704225352	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	HIMB100	
+T4C	T4C_bin_35	bin_35	1158157	104	15366	59.96808162395876	98.59154929577464	7.042253521126761	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Pontimonas	Pontimonas sp002172585
+T4C	T4C_bin_36	bin_36	3293242	227	22313	44.54501515524175	61.971830985915496	0.0	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales			
+T4C	T4C_bin_37	bin_37	1724777	240	9550	53.08753839433541	54.929577464788736	4.225352112676056	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA3439	UBA3439 sp016780525
+T4C	T4C_bin_4	bin_4	1942605	313	7164	64.97565613541688	43.66197183098591	1.408450704225352	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	HTCC2089	RGAU01	RGAU01 sp016779385
+T4C	T4C_bin_5	bin_5	1827439	262	8377	57.6174493179709	77.46478873239437	4.225352112676056	Bacteria	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Erythrobacter	Erythrobacter sp003149575
+T4C	T4C_bin_6	bin_6	1780524	213	10732	48.2042588324729	60.563380281690144	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	JADHLI01	JADHLI01 sp022425485
+T4C	T4C_bin_7	bin_7	3773658	157	35254	42.376059821060366	63.38028169014085	4.225352112676056	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	DSM-6294	Bermanella	Bermanella sp913054055
+T4C	T4C_bin_8	bin_8	1622826	241	8042	40.890115301368695	80.28169014084507	11.267605633802816	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	UBA8316	UBA8316 sp003538555
+T4C	T4C_bin_9	bin_9	1500769	81	26797	40.90954558894934	85.91549295774648	0.0	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	UBA11891	UBA11891 sp003533785
+SC	SC_bin_1	bin_1	1776598	251	7923	51.58884790931138	84.50704225352112	5.633802816901408	Bacteria	Pseudomonadota	Alphaproteobacteria	UBA8317	UBA8317	UBA8317	UBA8317 sp002469865
+SC	SC_bin_10	bin_10	2630634	150	33490	52.924683392893776	100.0	4.225352112676056	Bacteria	Pseudomonadota	Alphaproteobacteria	Caulobacterales	Parvularculaceae	Parvularcula	Parvularcula marina
+SC	SC_bin_11	bin_11	4672203	567	10179	58.448123409316324	87.32394366197182	8.450704225352112	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Akkermansiaceae	Akkermansia	Akkermansia sp017504805
+SC	SC_bin_12	bin_12	3107311	820	3747	55.42075108228407	50.70422535211268	4.225352112676056	Bacteria	Planctomycetota	Planctomycetia	Pirellulales	Pirellulaceae	Stieleria	Stieleria sp002167455
+SC	SC_bin_13	bin_13	4042820	640	7345	45.337137830563826	76.05633802816901	5.633802816901408	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Alteromonadaceae	Alteromonas	
+SC	SC_bin_14	bin_14	1142501	258	4677	54.546695392342	50.70422535211268	0.0	Bacteria	Pseudomonadota	Alphaproteobacteria	Parvibaculales	RS24	UBA7378	UBA7378 sp002469805
+SC	SC_bin_15	bin_15	2899925	200	23313	34.534995757534034	97.1830985915493	2.816901408450704	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Croceibacter	Croceibacter atlanticus
+SC	SC_bin_16	bin_16	1234368	254	5052	32.99747101781376	71.83098591549296	1.408450704225352	Bacteria	Pseudomonadota	Gammaproteobacteria	CACEW01	CACEW01	CAJQSL01	CAJQSL01 sp905612315
+SC	SC_bin_17	bin_17	1434656	253	6019	53.85300435778505	77.46478873239437	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA3439	UBA3439 sp016780525
+SC	SC_bin_18	bin_18	2348435	288	9854	49.22755556587228	87.32394366197182	1.408450704225352	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	HIMB11	
+SC	SC_bin_19	bin_19	1518201	409	3604	59.70487648454845	63.38028169014085	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA8309	
+SC	SC_bin_2	bin_2	1014060	100	13864	41.43106342613338	64.78873239436619	5.633802816901408							
+SC	SC_bin_20	bin_20	1708132	392	4425	57.34340876353112	71.83098591549296	1.408450704225352	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA8309	UBA8309 sp016780765
+SC	SC_bin_21	bin_21	967137	262	3612	57.065273125521934	33.80281690140845	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	UBA1172	UBA1172	UBA1172 sp002457135
+SC	SC_bin_22	bin_22	1436299	355	4079	48.25921384642368	52.11267605633803	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	UBA1172	UBA12202	UBA12202 sp016778985
+SC	SC_bin_3	bin_3	1037071	157	7532	60.379665929072914	85.91549295774648	1.408450704225352	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Pontimonas	Pontimonas sp002172585
+SC	SC_bin_4	bin_4	1756491	403	4433	52.176891351965104	50.70422535211268	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	LGRT01	LGRT01 sp016778765
+SC	SC_bin_5	bin_5	1889610	388	5228	53.13883805566208	73.2394366197183	2.816901408450704	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Halieaceae	Luminiphilus	Luminiphilus sp003331335
+SC	SC_bin_6	bin_6	1614574	440	3553	51.98896026873404	49.29577464788732	1.408450704225352	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	DSM-6294	Oleibacter	
+SC	SC_bin_7	bin_7	1598299	362	4537	61.85529850835355	71.83098591549296	0.0	Bacteria	Cyanobacteriota	Cyanobacteriia	PCC-6307	Cyanobiaceae	RCC307	RCC307 sp002470305
+SC	SC_bin_8	bin_8	1088610	208	5774	43.014604152818045	50.70422535211268	0.0	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA5951	UBA5951 sp016779005
+SC	SC_bin_9	bin_9	5395797	585	11468	62.16401443823055	92.95774647887323	4.225352112676056	Bacteria						
+SJ	SJ_bin_1	bin_1	1133704	65	27570	40.94284584224	91.54929577464789	1.408450704225352							
+SJ	SJ_bin_10	bin_10	4430620	1006	4560	55.108649721464765	76.05633802816901	2.816901408450704	Bacteria	Planctomycetota	Planctomycetia	Pirellulales	Pirellulaceae	Stieleria	Stieleria sp002167455
+SJ	SJ_bin_11	bin_11	2385430	500	5091	54.49305365209636	69.01408450704226	12.67605633802817	Bacteria	Pseudomonadota	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Ponticaulis	
+SJ	SJ_bin_12	bin_12	3812568	817	4896	62.18323739089369	69.01408450704226	7.042253521126761	Bacteria						
+SJ	SJ_bin_13	bin_13	2005646	367	5978	36.93748765832824	80.28169014084507	1.408450704225352	Bacteria	Cyanobacteriota	Vampirovibrionia	LMEP-6097	LMEP-6097	CAIYXB01	CAIYXB01 sp903930015
+SJ	SJ_bin_14	bin_14	1642909	275	6837	51.312315713865885	83.09859154929578	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	UBA8317	UBA8317	UBA8317	UBA8317 sp002469865
+SJ	SJ_bin_15	bin_15	6419953	353	26711	51.47040834429271	91.54929577464789	4.225352112676056	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	Phaeodactylibacter	Phaeodactylibacter sp022763345
+SJ	SJ_bin_16	bin_16	2448513	336	9075	60.84461618609588	88.73239436619718	0.0	Bacteria	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Erythrobacter	
+SJ	SJ_bin_17	bin_17	2179482	436	5450	35.00717698725545	66.19718309859155	7.042253521126761	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Croceibacter	Croceibacter atlanticus
+SJ	SJ_bin_18	bin_18	1573301	365	4096	59.23080403737308	47.88732394366197	11.267605633802816	Bacteria	Cyanobacteriota	Cyanobacteriia	PCC-6307	Cyanobiaceae	Synechococcus_C	
+SJ	SJ_bin_19	bin_19	2303047	562	4131	55.31672302632877	45.070422535211264	2.816901408450704	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Spongiibacteraceae	Spongiibacter	
+SJ	SJ_bin_2	bin_2	2918655	534	5992	38.62625006992064	57.74647887323944	1.408450704225352	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	AM-2324	AM-2324 sp900299495
+SJ	SJ_bin_20	bin_20	1629847	378	4396	54.05887300657716	70.4225352112676	1.408450704225352	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Halieaceae	Luminiphilus	Luminiphilus sp913057135
+SJ	SJ_bin_21	bin_21	2105158	331	7602	61.31210227924755	60.563380281690144	2.816901408450704	Bacteria	Pseudomonadota					
+SJ	SJ_bin_22	bin_22	912072	177	5697	59.767145134041485	81.69014084507042	4.225352112676056	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Pontimonas	Pontimonas sp002172585
+SJ	SJ_bin_23	bin_23	1640152	230	8809	32.48477605543989	87.32394366197182	7.042253521126761	Bacteria	Pseudomonadota	Gammaproteobacteria	CACEW01	CACEW01	CAJQSL01	CAJQSL01 sp905612315
+SJ	SJ_bin_24	bin_24	1581037	336	4941	57.6689568053901	54.929577464788736	2.816901408450704	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Halieaceae	Luminiphilus	
+SJ	SJ_bin_25	bin_25	2244940	477	4833	47.27313019209111	73.2394366197183	7.042253521126761	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Aureicoccus	Aureicoccus marinus
+SJ	SJ_bin_26	bin_26	1501133	427	3470	52.00395942902507	39.436619718309856	2.816901408450704	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	DSM-6294		
+SJ	SJ_bin_27	bin_27	1539843	416	3598	62.506916352717404	52.11267605633803	0.0	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	HTCC2089	RGAU01	RGAU01 sp016779385
+SJ	SJ_bin_28	bin_28	1351121	349	3750	41.50579359632175	71.83098591549296	5.633802816901408	Bacteria	Bacteroidota	Bacteroidia				
+SJ	SJ_bin_3	bin_3	3220493	448	8519	45.13716836732854	64.78873239436619	19.718309859154928	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Vibrionaceae	Vibrio	
+SJ	SJ_bin_4	bin_4	2593608	561	4709	45.64145993108053	38.028169014084504	7.042253521126761	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales_A	Alteromonadaceae	Alteromonas	
+SJ	SJ_bin_5	bin_5	2301124	362	7476	49.04908945256619	69.01408450704226	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	HIMB11	
+SJ	SJ_bin_6	bin_6	3967441	283	19180	56.43410282782082	84.50704225352112	4.225352112676056	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+SJ	SJ_bin_7	bin_7	2843354	669	4341	69.18317480709527	60.563380281690144	1.408450704225352	Bacteria	Planctomycetota	UBA1135	UBA1135	GCA-002686595	GCA-2862085	GCA-2862085 sp002862085
+SJ	SJ_bin_8	bin_8	1668927	348	5391	53.44474928702151	66.19718309859155	1.408450704225352	Bacteria	Pseudomonadota	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Henriciella	Henriciella sp002172915
+SJ	SJ_bin_9	bin_9	2601530	131	27269	52.753306944587074	83.09859154929578	1.408450704225352	Bacteria	Pseudomonadota	Alphaproteobacteria	Caulobacterales	Parvularculaceae	Parvularcula	Parvularcula marina
+ML	ML_bin_1	bin_1	2412076	344	8232	54.049050597744994	80.28169014084507	11.267605633802816	Bacteria						
+ML	ML_bin_10	bin_10	1976030	369	5945	63.16411208886936	59.15492957746479	4.225352112676056	Bacteria	Pseudomonadota	Alphaproteobacteria	UBA7985	UBA7985	UBA7985	UBA7985 sp002711265
+ML	ML_bin_11	bin_11	1579615	304	5711	59.716846143281565	69.01408450704226	7.042253521126761	Bacteria	Cyanobacteriota	Cyanobacteriia	PCC-6307	Cyanobiaceae	RCC307	
+ML	ML_bin_12	bin_12	1632595	181	11031	42.05555688392951	90.14084507042253	7.042253521126761	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA5951	UBA5951 sp016779005
+ML	ML_bin_13	bin_13	1719010	226	9257	50.40063405619605	66.19718309859155	1.408450704225352	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	HIMB11	
+ML	ML_bin_14	bin_14	1886777	401	5262	47.86426226311228	63.38028169014085	2.816901408450704	Bacteria	Bacteroidota	Bacteroidia	CAIKAF01	CAIKAF01	CAIKAF01	CAIKAF01 sp018401695
+ML	ML_bin_15	bin_15	1354076	141	12711	40.503993697388964	71.83098591549296	2.816901408450704	Bacteria						
+ML	ML_bin_16	bin_16	1070900	128	11213	59.92832601436542	83.09859154929578	4.225352112676056	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Pontimonas	Pontimonas sp002172585
+ML	ML_bin_17	bin_17	1024565	262	3928	47.63842724122162	63.1578947368421	2.6315789473684212	Archaea	Thermoplasmatota	Poseidoniia	Poseidoniales	Poseidoniaceae	MGIIa-L2	MGIIa-L2 sp013911465
+ML	ML_bin_18	bin_18	2274885	208	15886	53.05064213345493	85.91549295774648	4.225352112676056	Bacteria	Pseudomonadota	Alphaproteobacteria	Caulobacterales	Parvularculaceae	Parvularcula	Parvularcula marina
+ML	ML_bin_19	bin_19	1910728	316	6819	41.632910160150374	85.91549295774648	4.225352112676056	Bacteria	Bacteroidota	Rhodothermia	Balneolales	Balneolaceae	UBA1275	UBA1275 sp002457365
+ML	ML_bin_2	bin_2	2485292	350	8270	63.511547959599824	54.929577464788736	9.859154929577464	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	HTCC2089	RGAU01	RGAU01 sp016779385
+ML	ML_bin_20	bin_20	1689303	261	7700	54.58301867770559	78.87323943661971	2.816901408450704	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	DSM-45221	UBA7445	UBA7445 sp002470925
+ML	ML_bin_21	bin_21	1229594	292	4232	41.09981942665025	32.394366197183096	4.225352112676056	Bacteria	Chlamydiota	Chlamydiia	Chlamydiales			
+ML	ML_bin_22	bin_22	1472308	187	9021	36.06481671639577	50.70422535211268	1.408450704225352	Bacteria	Bacteroidota	Bacteroidia	NS11-12g	UBA9320	MED-G17	MED-G17 sp002457675
+ML	ML_bin_23	bin_23	1412947	280	5105	51.379551602812455	70.4225352112676	7.042253521126761	Bacteria	Pseudomonadota	Alphaproteobacteria	UBA8317	UBA8317	UBA8317	UBA8317 sp002469865
+ML	ML_bin_24	bin_24	1615178	177	13298	63.351799165842884	59.15492957746479	1.408450704225352	Bacteria	Cyanobacteriota	Cyanobacteriia	PCC-6307	Cyanobiaceae	RCC307	RCC307 sp002470305
+ML	ML_bin_25	bin_25	1720436	300	6467	48.248045912227724	60.563380281690144	8.450704225352112	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	JADHLI01	JADHLI01 sp022425485
+ML	ML_bin_26	bin_26	2131637	266	9773	56.90936915426121	54.929577464788736	9.859154929577464	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA8309	UBA8309 sp016780765
+ML	ML_bin_27	bin_27	1941721	250	9423	47.139803834168035	92.95774647887323	4.225352112676056	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	UBA1172	UBA12202	UBA12202 sp016778985
+ML	ML_bin_28	bin_28	1943541	407	5043	51.58669629120462	64.78873239436619	7.042253521126761	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Halieaceae	Luminiphilus	Luminiphilus sp003331335
+ML	ML_bin_3	bin_3	1525087	309	5232	52.070945642937495	63.38028169014085	11.267605633802816	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA3439	UBA3439 sp016780525
+ML	ML_bin_30	bin_30	1211341	292	4254	56.23221322330967	43.66197183098591	1.408450704225352	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	UBA1172	UBA1172	UBA1172 sp002457135
+ML	ML_bin_4	bin_4	1760652	289	7085	54.76379469459252	77.46478873239437	5.633802816901408	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	HIMB100	HIMB100 sp002722385
+ML	ML_bin_5	bin_5	3922373	620	7416	36.708662287701365	70.4225352112676	4.225352112676056	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Zunongwangia	
+ML	ML_bin_6	bin_6	1339647	212	7345	47.791261252407416	70.4225352112676	7.042253521126761	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	HIMB100	
+ML	ML_bin_7	bin_7	2183182	362	6629	54.447740760683196	60.563380281690144	8.450704225352112	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	MED-G116	MED-G116 sp004212735
+ML	ML_bin_8	bin_8	1946749	373	5615	59.86426509457369	63.38028169014085	5.633802816901408	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA8309	UBA8309 sp002457745
+ML	ML_bin_9	bin_9	4022170	263	22030	57.62478933522544	94.36619718309859	0.0	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales			
+M	M_bin_1	bin_1	2027560	264	9520	60.66476218800828	85.91549295774648	4.225352112676056	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA8309	UBA8309 sp002457745
+M	M_bin_10	bin_10	1359551	337	4089	56.15770549875775	54.929577464788736	1.408450704225352	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales			
+M	M_bin_11	bin_11	1821942	304	6476	45.85582017860312	74.64788732394366	7.042253521126761	Bacteria	Pseudomonadota	Alphaproteobacteria	Parvibaculales	RS24	Micropelagos	
+M	M_bin_12	bin_12	1420022	121	14911	57.193054245349686	69.01408450704226	4.225352112676056	Bacteria	Pseudomonadota	Alphaproteobacteria	Parvibaculales	RS24	UBA7378	UBA7378 sp002689195
+M	M_bin_13	bin_13	2196792	198	14467	57.133001208040426	53.521126760563384	1.408450704225352	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA8309	UBA8309 sp016780765
+M	M_bin_14	bin_14	1588317	232	7983	51.291611344857365	84.50704225352112	4.225352112676056	Bacteria	Pseudomonadota	Alphaproteobacteria	UBA8317	UBA8317	UBA8317	UBA8317 sp002469865
+M	M_bin_15	bin_15	1034572	127	11605	60.361872945142416	56.33802816901409	0.0	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Pontimonas	Pontimonas sp002172585
+M	M_bin_16	bin_16	2354701	376	7093	60.414344966394694	60.563380281690144	8.450704225352112	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA8309	UBA8309 sp004213025
+M	M_bin_17	bin_17	1503302	230	7633	61.031340822302624	73.2394366197183	4.225352112676056	Bacteria						
+M	M_bin_18	bin_18	2279036	380	6825	53.34228853365165	77.46478873239437	7.042253521126761	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	HTCC2089	UBA4421	UBA4421 sp002170355
+M	M_bin_19	bin_19	1778379	210	10043	41.79716751982281	73.2394366197183	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA5951	UBA5951 sp016779005
+M	M_bin_2	bin_2	2202176	297	8687	63.67277277053963	67.6056338028169	1.408450704225352	Bacteria	Pseudomonadota	Alphaproteobacteria	UBA7985	UBA7985	UBA7985	UBA7985 sp002711265
+M	M_bin_20	bin_20	1795012	169	14785	50.60385562949082	57.74647887323944	1.408450704225352	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	HIMB11	
+M	M_bin_21	bin_21	2229175	225	13347	53.966562181180045	91.54929577464789	7.042253521126761	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	DSM-45221	UBA7445	UBA7445 sp002470925
+M	M_bin_22	bin_22	1327237	126	15076	40.668299869602066	63.38028169014085	1.408450704225352	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	UBA724	UBA724 sp902586905
+M	M_bin_23	bin_23	1863255	232	10157	54.86586686980151	66.19718309859155	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	HIMB100	HIMB100 sp000238815
+M	M_bin_24	bin_24	1695385	328	5546	56.54390232827483	76.05633802816901	4.225352112676056	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	UBA1172	UBA1172	UBA1172 sp002457135
+M	M_bin_25	bin_25	2541790	236	14372	54.461007030083096	71.83098591549296	0.0	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Akkermansiaceae	Luteolibacter	
+M	M_bin_26	bin_26	1327435	230	6521	53.86273588325163	57.74647887323944	1.408450704225352	Bacteria						
+M	M_bin_27	bin_27	1345307	123	13948	36.01655779328004	80.28169014084507	1.408450704225352	Bacteria	Bacteroidota	Bacteroidia	NS11-12g	UBA9320	MED-G17	MED-G17 sp002457675
+M	M_bin_28	bin_28	2205796	350	7338	48.03771857716824	67.6056338028169	2.816901408450704	Bacteria	Bacteroidota	Bacteroidia	CAIKAF01	CAIKAF01	CAIKAF01	CAIKAF01 sp018401695
+M	M_bin_29	bin_29	1416165	244	5963	53.49688667019772	77.46478873239437	5.633802816901408	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA3439	UBA3439 sp016780525
+M	M_bin_3	bin_3	2708727	270	13492	63.885298988187614	95.77464788732394	5.633802816901408	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	HTCC2089	RGAU01	RGAU01 sp016779385
+M	M_bin_30	bin_30	1886307	161	16020	54.26561716368731	90.14084507042253	11.267605633802816	Bacteria	Pseudomonadota	Alphaproteobacteria	Parvibaculales	RS24	UBA7378	UBA7378 sp002469805
+M	M_bin_31	bin_31	1873549	267	7638	41.73450565715183	69.01408450704226	4.225352112676056	Bacteria	Bacteroidota	Rhodothermia	Balneolales	Balneolaceae	UBA1275	UBA1275 sp002457365
+M	M_bin_32	bin_32	2432891	392	7173	58.70187265990066	73.2394366197183	19.718309859154928	Bacteria	Pseudomonadota	Alphaproteobacteria	UBA7985	UBA7985	UBA7985	UBA7985 sp002690455
+M	M_bin_4	bin_4	1772959	246	8671	48.47750027886369	71.83098591549296	11.267605633802816	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	JADHLI01	JADHLI01 sp022425485
+M	M_bin_5	bin_5	2396746	171	22029	53.153849132532514	90.14084507042253	4.225352112676056	Bacteria	Pseudomonadota	Alphaproteobacteria	Caulobacterales	Parvularculaceae	Parvularcula	Parvularcula marina
+M	M_bin_6	bin_6	2470366	303	10281	54.58656391252499	90.14084507042253	7.042253521126761	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	MED-G116	MED-G116 sp004212735
+M	M_bin_7	bin_7	2080989	232	11263	47.08401373891038	90.14084507042253	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	UBA1172	UBA12202	UBA12202 sp016778985
+M	M_bin_8	bin_8	1031724	185	6020	51.19845315696436	78.87323943661971	0.0	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Litoricolaceae	HIMB30	
+M	M_bin_9	bin_9	1539457	201	9651	47.929779477492936	60.563380281690144	1.408450704225352	Bacteria	Pseudomonadota	Alphaproteobacteria				
+T0	T0_bin_1	bin_1	1967696	213	11347	48.2428290922111	67.6056338028169	5.633802816901408	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	JADHLI01	JADHLI01 sp022425485
+T0	T0_bin_10	bin_10	1380727	113	15009	39.54149178739279	91.54929577464789	1.408450704225352	Bacteria	Bacteroidota	Bacteroidia				
+T0	T0_bin_11	bin_11	1862839	215	11373	56.92219977917854	98.59154929577464	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	UBA1172	UBA1172	UBA1172 sp002457135
+T0	T0_bin_12	bin_12	1785016	267	7855	62.937361907777756	60.563380281690144	5.633802816901408	Bacteria	Cyanobacteriota	Cyanobacteriia	PCC-6307	Cyanobiaceae	RCC307	RCC307 sp002470305
+T0	T0_bin_13	bin_13	1119567	83	20142	60.33632603403809	90.14084507042253	2.816901408450704	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Pontimonas	Pontimonas sp002172585
+T0	T0_bin_14	bin_14	877825	221	4161	52.72925493747945	45.070422535211264	0.0	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Schleiferiaceae	RFXV01	RFXV01 sp009921445
+T0	T0_bin_15	bin_15	1581278	283	5933	51.63240764816416	80.28169014084507	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria				
+T0	T0_bin_16	bin_16	1820665	394	4716	51.52284543116491	49.29577464788732	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	LGRT01	LGRT01 sp016778765
+T0	T0_bin_17	bin_17	2336316	244	12756	63.58764214589117	77.46478873239437	4.225352112676056	Bacteria	Pseudomonadota	Alphaproteobacteria	UBA7985	UBA7985	UBA7985	UBA7985 sp002711265
+T0	T0_bin_18	bin_18	1377693	214	7312	51.032653998555396	61.971830985915496	5.633802816901408	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Litoricolaceae	HIMB30	HIMB30 sp002691485
+T0	T0_bin_19	bin_19	1783664	130	21494	41.62112766126758	98.59154929577464	8.450704225352112	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA5951	UBA5951 sp016779005
+T0	T0_bin_2	bin_2	887492	248	3543	70.45984825240717	30.985915492957748	1.408450704225352	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae		
+T0	T0_bin_20	bin_20	1666125	211	9900	53.08351560837122	91.54929577464789	5.633802816901408	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA3439	UBA3439 sp016780525
+T0	T0_bin_21	bin_21	1946705	245	9526	47.02497319775521	83.09859154929578	5.633802816901408	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	UBA1172	UBA12202	UBA12202 sp016778985
+T0	T0_bin_22	bin_22	1847887	73	38942	53.823045130671076	88.73239436619718	0.0	Bacteria	Pseudomonadota	Alphaproteobacteria	Parvibaculales	RS24	UBA7378	UBA7378 sp002469805
+T0	T0_bin_23	bin_23	2786833	286	12734	48.758439504639085	74.64788732394366	7.042253521126761	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	HIMB11	
+T0	T0_bin_24	bin_24	1252554	231	5833	46.012871477173334	52.11267605633803	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	Parvibaculales	RS24	Micropelagos	
+T0	T0_bin_25	bin_25	1576489	246	7572	51.31111825571211	84.50704225352112	0.0	Bacteria	Pseudomonadota	Alphaproteobacteria	UBA8317	UBA8317	UBA8317	UBA8317 sp002469865
+T0	T0_bin_26	bin_26	1449114	252	6294	45.68718125911807	60.563380281690144	2.816901408450704	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Schleiferiaceae	UBA10364	
+T0	T0_bin_27	bin_27	2240588	379	6650	64.13108139695505	63.38028169014085	2.816901408450704	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	HTCC2089	RGAU01	RGAU01 sp016779385
+T0	T0_bin_28	bin_28	2439744	284	10650	60.57426104076994	92.95774647887323	5.633802816901408	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA8309	
+T0	T0_bin_29	bin_29	1607326	293	6121	55.03180876404047	69.01408450704226	5.633802816901408	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	HIMB100	HIMB100 sp000238815
+T0	T0_bin_3	bin_3	1875054	412	4651	58.867472190996374	67.6056338028169	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	UBA7985	UBA7985	UBA7985	UBA7985 sp002690455
+T0	T0_bin_30	bin_30	1824676	312	6502	57.64469850834756	70.4225352112676	2.816901408450704	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Halieaceae	Luminiphilus	
+T0	T0_bin_31	bin_31	1712080	200	10224	61.74485625920531	92.95774647887323	15.492957746478874	Bacteria	Cyanobacteriota	Cyanobacteriia	PCC-6307	Cyanobiaceae	RCC307	RCC307 sp000063525
+T0	T0_bin_32	bin_32	1154822	275	4237	53.44467131587339	36.61971830985915	0.0	Bacteria	Pseudomonadota	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Henriciella	Henriciella sp002172915
+T0	T0_bin_33	bin_33	2319826	285	10077	54.881502579120614	59.15492957746479	1.408450704225352	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	MED-G116	MED-G116 sp004212735
+T0	T0_bin_34	bin_34	2099589	193	14030	60.779727454404465	97.1830985915493	9.859154929577464	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA8309	UBA8309 sp002457745
+T0	T0_bin_35	bin_35	1657652	137	16492	40.729117394074876	94.36619718309859	2.816901408450704	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae		
+T0	T0_bin_36	bin_36	1028054	236	4460	47.02032108031808	56.33802816901409	7.042253521126761	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	UBA3478	UBA3478 sp018402205
+T0	T0_bin_4	bin_4	1687987	184	11812	56.5499065719853	84.50704225352112	9.859154929577464	Bacteria	Pseudomonadota	Alphaproteobacteria	Parvibaculales	RS24	UBA7378	UBA7378 sp002689195
+T0	T0_bin_5	bin_5	1987767	307	7565	52.49820864630188	76.05633802816901	12.67605633802817	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Halieaceae	Luminiphilus	Luminiphilus sp003331335
+T0	T0_bin_6	bin_6	1578618	296	5838	47.626663507246484	54.929577464788736	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	JADHLI01	JADHLI01 sp016780775
+T0	T0_bin_7	bin_7	1539689	251	6978	50.69437832781828	56.33802816901409	8.450704225352112	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	HIMB11	
+T0	T0_bin_8	bin_8	1773027	238	9405	41.57961833530614	90.14084507042253	4.225352112676056	Bacteria	Bacteroidota	Rhodothermia	Balneolales	Balneolaceae	UBA1275	UBA1275 sp002457365
+T0	T0_bin_9	bin_9	2494814	182	18394	56.8249697698396	63.38028169014085	2.816901408450704	Bacteria	Pseudomonadota	Alphaproteobacteria	Puniceispirillales	Puniceispirillaceae	UBA8309	UBA8309 sp016780765
