@@ -14,7 +14,7 @@ module load conda
 #Activate conda environment:
 conda activate anvio-dev
 
-WORKDIR=/lisc/scratch/oceanography/efadeev/Microcosm_Piran/MicPir_sep/ && cd $WORKDIR
+WORKDIR=/lisc/scratch/oceanography/efadeev/MicPir/MicPir_sep/ && cd $WORKDIR
 SCRIPT_DIR=/lisc/scratch/oceanography/efadeev/anvio_scripts/
 PROJECT=MicPir_sep
 

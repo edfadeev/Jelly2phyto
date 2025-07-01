@@ -85,7 +85,7 @@ SJ_SC_COG20_enr %>%
 ## Enriched CAZymes SJ vs. SC               ##
 ##############################################
 #import enrichment results
-SJ_SC_CAZy_enr <- read.csv(paste0(wd,"09_METABOLISM/CAZy/Jelly_control_CAZy_enrichment.txt"),
+SJ_SC_CAZy_enr <- read.csv(paste0(wd,"09_METABOLISM/CAZy/SJ_SC_CAZy_enrichment.txt"),
                        sep = "\t") %>% select(-c("key", "accession")) %>% 
                 rename(accession = function.) %>% 
                 mutate(Class = case_when(grepl("GH", accession) ~ "Glycoside_Hydrolase",
@@ -102,7 +102,7 @@ str(SJ_SC_CAZy_enr)
 #filter the table according to enrichment groups or CAZy class
 View(
   SJ_SC_CAZy_enr %>% 
-    filter(associated_groups == "Jelly", #can be changed to "Control"
+    filter(associated_groups == "SJ", #can be changed to "Control"
            Class == "Glycoside_Hydrolase", # any of the classes above
     ))
 
@@ -112,6 +112,45 @@ SJ_SC_CAZy_enr %>%
   group_by(associated_groups, Class) %>% 
   count(Class, name = "Num_CAZymes", .drop = FALSE) %>%
   ggplot(aes(x=Class, y=Num_CAZymes, fill= associated_groups))+
+  geom_col(width=0.8, position = "dodge")+
+  scale_fill_manual(values = tol21rainbow)+
+  theme_EF+
+  coord_flip()
+
+##############################################
+## Enriched Proteases SJ vs. SC               ##
+##############################################
+#import enrichment results
+SJ_SC_Prot_enr <- read.csv(paste0(wd,"09_METABOLISM/MEROPS/SJ_SC_MEROPS_enrichment.txt"),
+                           sep = "\t") %>% 
+                  tidyr::separate(function., into = c('Annotation',"function."), sep ="_\\(", remove = TRUE, extra = "merge") %>% 
+                  tidyr::separate(function., into = c('Tax',"MEROPS_ID"), sep ="_\\[", remove = TRUE, extra = "merge") %>% 
+                  mutate(Tax=gsub("\\(|\\)|\\[|\\]|\\{|\\}", "", Tax),
+                         MEROPS_ID= gsub("\\[|\\]", "", MEROPS_ID),
+                         Family = gsub("\\..*", "", MEROPS_ID),
+                         Type = case_when(grepl("non-", Annotation, ignore.case = TRUE)~ "Non-peptidase",
+                                          grepl("aminopeptidase", Annotation, ignore.case = TRUE)~ "Aminopeptidase",
+                                          grepl("peptidase", Annotation, ignore.case = TRUE)~ "Peptidase",
+                                          TRUE ~ "Other"))
+
+#explore table
+str(SJ_SC_Prot_enr)
+
+#filter the table according to enrichment groups
+View(
+  SJ_SC_Prot_enr %>% 
+    filter(associated_groups == "SJ", #can be changed to "SC"
+           Type == "Aminopeptidase"
+    ))
+
+#plot
+SJ_SC_Prot_enr %>% 
+  filter(Type %in% c("Aminopeptidase", "Peptidase")) %>% 
+  mutate(Family=factor(Family)) %>% 
+  group_by(associated_groups, Family) %>% 
+  count(Family, name = "Num_Prot", .drop = FALSE) %>%
+  filter(Num_Prot>10) %>% 
+  ggplot(aes(x=Family, y=Num_Prot, fill= associated_groups))+
   geom_col(width=0.8, position = "dodge")+
   scale_fill_manual(values = tol21rainbow)+
   theme_EF+

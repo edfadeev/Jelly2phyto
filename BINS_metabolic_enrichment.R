@@ -60,7 +60,7 @@ enr_modules_bins_sum<- BINS_enr_modules %>%
                               .drop = FALSE)
 
 #Calculate how many enriched pathways were present in each bin
-BINS_enr_modules_bin_sum<- BINS_enr_modules %>% 
+BINS_enr_modules_sum<- BINS_enr_modules %>% 
   group_by(associated_groups, db_name, t_class, t_order, 
            t_family, t_genus, t_species,
            module_subcategory) %>% 

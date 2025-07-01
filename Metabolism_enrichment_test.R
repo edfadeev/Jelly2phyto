@@ -20,12 +20,9 @@ tol21rainbow<- c("#771155", "#AA4488","#CC99BB","#114477",
                  "#777711","#AAAA44","#DDDD77","#774411", 
                  "#AA7744","#DDAA77","#771122","#AA4455", "#DD7788")
 
-#import tables
-wd <- "D:/UniVie/Projects/Microcosm_Piran/Analysis/MetaG/MicPir_sep/Metabolism/08_BINS"
-
 
 #taxonomy of bins 
-BINS_summary <- read.csv(paste0(wd,"/combined_bins_summary.txt"),
+BINS_summary <- read.csv("data/combined_bins_summary.txt",
                          sep = "\t")
 
 BINS_summary %>% 
@@ -50,27 +47,36 @@ BINS_summary %>%
 
 
 
-BINS_modules <- read.csv(paste0(wd,"/BINS_modules.txt"),
-                      sep = "\t")
+BINS_modules <- read.csv("data/BINS_modules.txt",sep = "\t")
 
+modules_info <- read.csv("data/modules_info.txt",sep = "\t")
 
-modules_info <- read.csv(paste0(wd,"/modules_info.txt"),
-                   sep = "\t")
-
-enriched_modules <- read.csv(paste0(wd,"/Jelly_control_met_enrichment.txt"),
-                         sep = "\t") %>% 
-                      left_join(modules_info, by = c("accession" = "module"))
-
-enriched_modules <- read.csv(paste0(wd,"/SJ_SC_met_enrichment.txt"),
-                             sep = "\t") %>% 
-  left_join(modules_info, by = c("accession" = "module"))
-
-enriched_modules %>% 
+enriched_modules_J_C <- read.csv("data/Jelly_control_met_enrichment.txt", sep = "\t") %>% 
+                      left_join(modules_info, by = c("accession" = "module"))%>% 
+  filter(adjusted_q_value < 0.05) %>% 
   group_by(associated_groups, subcategory) %>% 
   summarize(n_pathways=n()) %>% 
+  mutate(Comp="J_C")
+
+enriched_modules_SJ_SC <- read.csv("data/SJ_SC_met_enrichment.txt",sep = "\t") %>% 
+                      left_join(modules_info, by = c("accession" = "module"))%>% 
+  filter(adjusted_q_value < 0.05) %>% 
+  group_by(associated_groups, subcategory) %>% 
+  summarize(n_pathways=n()) %>% 
+  mutate(Comp="SJ_SC")
+
+enriched_modules_J_SJ <- read.csv("data/Jelly_SJ_met_enrichment.txt",sep = "\t") %>% 
+                              left_join(modules_info, by = c("accession" = "module"))%>% 
+  filter(adjusted_q_value < 0.05) %>% 
+  group_by(associated_groups, subcategory) %>% 
+  summarize(n_pathways=n()) %>% 
+  mutate(Comp="J_SJ")
+
+rbind(enriched_modules_J_SJ, enriched_modules_SJ_SC, enriched_modules_J_C) %>% 
   ggplot(aes(x=subcategory, y=n_pathways, fill= associated_groups, group = associated_groups))+
   geom_col(width=0.8, position = "dodge")+
   scale_fill_manual(values = tol21rainbow)+
+  facet_grid(Comp~.)+
   theme_EF+
   theme(axis.text.x = element_text(angle = 90))
 
@@ -115,7 +121,7 @@ COG20_enr %>%
 
 
 
-CAZy_enr <- read.csv(paste0(wd,"/CAZy/Jelly_control_CAZy_enrichment.txt"),
+CAZy_enr <- read.csv("data/Jelly_control_CAZy_enrichment.txt",
                       sep = "\t") %>% 
   left_join(COG20_table,  by = c("accession","function."))
 

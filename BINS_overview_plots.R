@@ -10,7 +10,7 @@ wd <- "D:/UniVie/Projects/Microcosm_Piran/Analysis/MetaG/08_BINS"
 
 
 #taxonomy of bins 
-BINS_summary <- read.csv(paste0(wd,"/combined_bins_summary.txt"),
+BINS_summary <- read.csv("data/combined_bins_summary.txt",
                          sep = "\t") %>% 
                 mutate(group= factor(group,
                                         levels =c ("T0","T3J","T4J",
@@ -40,19 +40,33 @@ tol21rainbow<- c("#771155", "#AA4488","#CC99BB","#114477",
 ##################################
 ## Plot overview on Class level ##
 ##################################
-BINS_summary %>% 
+BINS_summary %>% filter(t_domain!="", grepl("S",group)
+                        ) %>% 
+  mutate(t_family=case_when(grepl("\\d", t_family) ~paste0(t_class, "_uncl"),
+                            t_order!="" & t_family==""~ paste0(t_class, "_uncl"),
+                            t_class!="" & t_order=="" & t_family==""~ paste0(t_class, "_uncl"),
+                            t_class=="" & t_order=="" & t_family==""~ paste0(t_domain, "_uncl"),
+                            t_genus=="Pseudoalteromonas"~ "Pseudoalteromonadaceae",
+                            TRUE ~ t_family)) %>% 
   group_by(group, t_class, t_family) %>% 
   summarize(n_bins=n()) %>% 
-  ggplot(aes(x=group, y=n_bins, fill = t_class))+
+  filter(!t_family=="Bacteria_uncl") %>% 
+  mutate(t_family=factor(t_family, levels=c("Microbacteriaceae","Alphaproteobacteria_uncl", "Hyphomonadaceae", "Puniceispirillaceae", "Rhodobacteraceae", "Sphingomonadaceae",
+                                            "Bacteroidia_uncl", "Crocinitomicaceae", "Flavobacteriaceae", "Salibacteraceae","Schleiferiaceae", "Cyanobiaceae",
+                                            "Alcanivoracaceae", "Alteromonadaceae", "Gammaproteobacteria_uncl", "Halieaceae", "Litoricolaceae", "Nitrincolaceae", "Oleiphilaceae",
+                                            "Pseudoalteromonadaceae", "Pseudohongiellaceae", "Spongiibacteraceae", "Vibrionaceae", "Balneolaceae"))) %>% 
+  ggplot(aes(x=group, y=n_bins, fill = t_family))+
   geom_col()+
-  scale_fill_manual(values = tol21rainbow)+
+  scale_fill_manual(values = c(tol21rainbow,cbbPalette))+
   guides(fill=guide_legend(title = "Class"))+
-  theme_EF
+  theme_EF+
+  theme(legend.position = "bottom")
+
 #save
-ggsave(paste0("Figures/BINS_summary.png"),
+ggsave("Figures/BINS_Experiment_A.pdf",
        plot = last_plot(),
        units = "cm",
-       width = 25, height = 25, 
+       #width = 25, height = 25, 
        scale = 2,
        dpi = 300)
 
@@ -81,7 +95,7 @@ grid.arrange(tax_by_class[[1]],tax_by_class[[2]],
 #save
 tax_by_class.p <- arrangeGrob(tax_by_class[[1]],tax_by_class[[2]],
                               tax_by_class[[3]],nrow = 1)
-ggsave(paste0("Figures/BINS_summary_Class.png"),
+ggsave(paste0(wd,"Figures/BINS_summary_Class.png"),
        plot = tax_by_class.p,
        units = "cm",
        width = 30, height = 10, 
