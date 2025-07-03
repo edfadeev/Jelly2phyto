@@ -8,7 +8,7 @@ Tinta T., Fadeev, E., Celussi M., Balestra C., Klun K., Flander-Putrle V., Mozet
 
 ### Content:
 
-**Tables** - raw input data metadata. \
+**data** - raw input data metadata. \
 **scripts** - supporting scripts for the statistical analysis. \
 ```Biochemistry.R``` -  Biochemical observations (Fig. 2 and Fig. 6, Tab. S1). \
 ```EEA.R``` -  Enzymatic activity assays (Fig. 3 and Fig. S1). \
