@@ -20,5 +20,5 @@ Tinta T., Fadeev, E., Celussi M., Balestra C., Klun K., Flander-Putrle V., Mozet
 Eduard Fadeev([dr.eduard.fadeev@gmail.com](mailto:dr.eduard.fadeev@gmail.com)) 
 
 ### Software Versions:
-R version 4.1.1 (2021-08-10)\
-RStudio version: 1.4.1717
+R version 4.4.2 (2024-10-31 ucrt)\
+RStudio version: 2024.09.1+394 ("Cranberry Hibiscus")
